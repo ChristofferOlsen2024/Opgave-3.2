@@ -1,4 +1,4 @@
-﻿string navn = Console.ReadLine();
+﻿var navn = Console.ReadLine();
 
 if (navn == "Christoffer")
 {
